@@ -1,0 +1,7 @@
+smv_linear, 0.59,0.59
+smv_polynomial, 0.743333333333,0.71
+smv_rbf, 0.983333333333,0.875
+logistic, 0.59,0.59
+knn, 0.99,0.88
+decision_tree, 1.0,0.97
+random_forest, 1.0,0.945
